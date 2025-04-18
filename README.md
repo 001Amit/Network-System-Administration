@@ -133,5 +133,3 @@ This simulation reflects a realistic network layout for small organizations, hig
 
 ---
 
-## 📁 File Structure
-
